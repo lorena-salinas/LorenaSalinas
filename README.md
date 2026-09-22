@@ -10,7 +10,7 @@ I'm a Computer Science student at Florida International University with a passio
 - Open to collaborating on real-world projects, improving my development skills, and exploring new technologies.
 
 ## Languages & Tools
-- Java • Python • SQL • JavaFX • Scene Builder • Git • PostgreSQL • REST APIs
+- Java • Python • SQL • ArcGIS • Streamlit • JavaFX • Scene Builder • Git • REST APIs 
 
 ## Let’s Connect
 - LinkedIn: www.linkedin.com/in/lorena-salinas-c
